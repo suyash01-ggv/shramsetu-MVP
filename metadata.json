@@ -1,0 +1,6 @@
+{
+  "name": "SHRAMSETU",
+  "description": "A digital cooperative workforce platform connecting customers, workers, and cooperatives.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
