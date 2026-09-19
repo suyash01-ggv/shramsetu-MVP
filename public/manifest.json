@@ -1,0 +1,11 @@
+{
+  "name": "ShramSetu",
+  "short_name": "ShramSetu",
+  "description": "ShramSetu is a platform that connects workers with people looking for services.",
+  "start_url": "/shramsetu-MVP/",
+  "scope": "/shramsetu-MVP/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait"
+}
